@@ -1,0 +1,41 @@
+{
+  "edition": "1723",
+  "attributes": [
+    {
+      "trait_type": "Background_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/Background/01_Signboard_Yellow#10.png"
+    },
+    {
+      "trait_type": "Body_furimuki_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/Body_furimuki/01_Furimuki#10.png"
+    },
+    {
+      "trait_type": "furi_Costume_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Costume/01_Uniform_blue#10.png"
+    },
+    {
+      "trait_type": "furi_Face_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Face/05_Wink#10.png"
+    },
+    {
+      "trait_type": "furi_Hair_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Hair/09_Bob2_yellowishgreen#10.png"
+    },
+    {
+      "trait_type": "furi_Faceitem_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Faceitem/01_None#70.png"
+    },
+    {
+      "trait_type": "furi_Randoseru_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Randoseru/05_Yellow#10.png"
+    },
+    {
+      "trait_type": "furi_Accessory_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Accessory/04_Penguin#1760.png"
+    },
+    {
+      "trait_type": "furi_Foreground_path",
+      "path": "C:\\test\\zutomamo/layers/Nyugakushiki/furi_Foreground/01_Cherry_petals#10.png"
+    }
+  ]
+}
