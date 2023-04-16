@@ -1,0 +1,2 @@
+# image_gene
+HashlipsでpathをJSONに書いたものを読み込んで、JSONから再度ジェネ絵を生成する
